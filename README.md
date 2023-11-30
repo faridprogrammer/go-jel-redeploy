@@ -22,4 +22,4 @@ You need to provide a `config.json` file using `--config` argument of tool, with
 
 You can download executable of the tool in [releases](https://github.com/faridprogrammer/go-jel-redeploy/releases/) section of the repository
 
-    [Path to your executable]\go-jel-redeploy.exe -config path/to/config.json
+    Path\to\your\executable\go-jel-redeploy.exe -config path/to/config.json
