@@ -1,0 +1,13 @@
+{
+    "host": "https://app.jcloud.whiteboard-studio.nl",
+    "session": "1c525975fcec40798d8e349eef570610b2630b31",
+    "deployments": [
+        {
+            "envName": "stg-aprt-panel",
+            "nodeGroup": {
+                "name": "mc",
+                "tag": "stg-mc-V9.13.6.231129.1"
+            }
+        }
+    ]
+}
